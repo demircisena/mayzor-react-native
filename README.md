@@ -6,8 +6,6 @@
 
 
 
-<img src="https://cdn.discordapp.com/attachments/1044956647996526623/1051553029469507594/resergym.png" alt="drawing" width="200"/>
-
 https://user-images.githubusercontent.com/100048051/206945301-1728a9c9-dddd-424a-b197-3e262ec84404.mp4
 
 ## Setup
