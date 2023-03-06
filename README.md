@@ -6,8 +6,6 @@
 
 
 
-https://user-images.githubusercontent.com/100048051/206945301-1728a9c9-dddd-424a-b197-3e262ec84404.mp4
-
 ## Setup
 
 - React Native
